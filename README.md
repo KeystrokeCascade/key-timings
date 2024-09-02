@@ -1,3 +1,2 @@
 # Key Timings
-
-A simple website with some javascript that tells you the milisecond delay between letters as you type something.
+A simple website with javascript to tell you the millisecond delay between letters as you type something.
